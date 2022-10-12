@@ -171,7 +171,7 @@ body {
 	}
 	.avto{
 		position: absolute;
-		
+		size:0.1;
 		animation: avto 5s infinite linear  0s;
 		
 	}
