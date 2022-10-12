@@ -52,6 +52,8 @@ body {
 .wrapper {
 	min-height: 100%;
 	padding: 30px;
+	position: absolute;
+		size:0.1;
 }
 /* ------------------------------ */
 
